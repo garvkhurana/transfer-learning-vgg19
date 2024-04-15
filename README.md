@@ -41,3 +41,6 @@ The model achieves an accuracy of [insert accuracy here] on the validation set, 
 
 The dataset link is:
 https://drive.google.com/drive/folders/1vdr9CC9ChYVW2iXp6PlfyMOGD-4Um1ue
+
+eployed the project on the local server too with the help of flak library of PYTHON code is in the app.py file
+
