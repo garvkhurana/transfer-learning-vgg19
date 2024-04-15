@@ -38,3 +38,6 @@ Copy code
 python evaluate.py
 Results
 The model achieves an accuracy of [insert accuracy here] on the validation set, demonstrating its effectiveness in classifying images using transfer learning with VGG19 architecture.
+
+The dataset link is:
+https://drive.google.com/drive/folders/1vdr9CC9ChYVW2iXp6PlfyMOGD-4Um1ue
